@@ -1,0 +1,4 @@
+a=int(input("No of marks:"))
+b=int(input("No of subjects:"))
+percentage=(a/b)*100;
+print("Percentage is: ",percentage)
