@@ -1,0 +1,7 @@
+x=10
+def sum():
+    global x;
+    x=x+5;
+    print("x is :",x)
+c=sum();
+print("c is:",c)
